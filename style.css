@@ -12,7 +12,7 @@
       height: 50px;
       pointer-events: none;
       user-select: none;
-      opacity: 0.8;
+      opacity: 0.5;
       z-index: 9999;
     }
 
@@ -21,3 +21,33 @@
       height: auto;
       display: block;
     }
+     
+    p {
+      font-size: 25px;
+    }
+    nav {position: sticky; 
+    top: 0%;
+    background-color: rgb(14, 153, 218);
+    opacity: 90%;
+    overflow: auto;
+    height: 50px;
+    }
+    .capuceta {
+      list-style-type: none;
+      float: left;
+      padding-left: 16%;
+    }
+    section {
+    text-align: center;
+}
+
+section img {
+    display: inline-block;
+}
+section {
+    text-align: center;
+}
+
+section img {
+    display: inline-block;
+}
